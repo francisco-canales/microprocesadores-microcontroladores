@@ -1,10 +1,10 @@
 # Microprocesadores-Microcontroladores
 Microprocesadores y microcontroladores(G1)2016.  
 Repositorio público donde encontraras todos los ejercicios correspondientes a la matería.
->esto es parte de un bloque de cita
+>Objetivos:
 
-1.un elemento de lista  
-2.un elemento de lista  
-3.un elemento de lista  
-4.un elemento de lista  
+1.Hacer ejercicios prácticos.  
+2.Disponer de un recurso en linea donde encontrar los ejercicios, 
+3.Interpretar los ejercicios.  
+4.Aprender a codificar.    
 
